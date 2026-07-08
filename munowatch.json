@@ -1,6 +1,6 @@
 {
-  "version_code": 16,
-  "version_name": "5.1",
+  "version_code": 12,
+  "version_name": "q.9",
   "apk_url": "paste release apk url",
   "changelog": "Security improvements\nHardware TEE attestation\nBug fixes and stability updates",
   "update_size": "8.3 MB",
