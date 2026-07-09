@@ -42,8 +42,8 @@ App Launch → fetch munowatch.json → compare version_code → prompt / force 
 
 | Field | Value |
 |-------|-------|
-| 🏷️ Version Name | `1.9` |
-| 🔢 Version Code | `12` |
+| 🏷️ Version Name | `2.5` |
+| 🔢 Version Code | `18` |
 | 📱 APK Size | `8.3 MB` |
 | 🚨 Force Update | `true` |
 | 🔗 Download | [Munowatch.VIP.apk](https://github.com/Matrix1999/munowatch-updater-panel/releases/download/v2.1/Munowatch.VIP.apk) |
